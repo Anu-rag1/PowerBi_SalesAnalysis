@@ -1,5 +1,5 @@
 <h1 align="center">Sales Analysis based on Superstore sales</h1>
-
+<br \>
 
 # How to Use the Project
 ## 1. Financial+Sample.xlsx
@@ -14,26 +14,26 @@
 -- 2023 dashboard in .pdf mode for easy view.
 ## 6. README.md
 -- Documentation for the repository.
-
+<br \>
 
 # Project Description
 -- Dashboard on Power BI to do Sales Anlysis based on Superstore sales data of various products across 5 countries and get ROI from the resultant dashboard.
-
+<br \>
 
 # Table of Contents based on Sales analysis2.pbix
 ## 1. Financial Month [Slicer]
 -- Slicer to select month wise data.
 ## 2. Profit By Country [Line Chart]
---  Comparision of 
+--  Comparision of profits of country in line chart
 ## 3. Gross Sales | Profit | Units Sold | [3 Column charts respectively]
---  
+--  Gross sales, Total profits and Units sold in table chart
 ## 4. Discounts by Country [Doughnut Chart]
 -- Relative discounts depicted through doughnut chart
 ## 5. Gross Sales by Product and Country [Line Chart]
 -- Relative gross sales of various products across the country depicted through Line Chart
-
+<br \>
 
 # How to Install and Run the Project
-## 1. .pdf files are added for view of the Power BI dashboard
-## 2. Download/ fork Financial+Sample.xlsx file as a data source
-## 3. Install Power BI from Windows store to edit on .pbix files
+1. .pdf files are added for view of the Power BI dashboard
+2. Download/ fork Financial+Sample.xlsx file as a data source
+3. Install Power BI from Windows store to edit on .pbix files
